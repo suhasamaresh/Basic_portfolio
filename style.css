@@ -1,0 +1,10 @@
+.Greeting{
+    background-color: #FCA510;
+    margin-bottom: -5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wow{
+    background-color: #008080;
+}
